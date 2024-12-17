@@ -1,0 +1,7 @@
+[web-server]
+bind_addr = "*****"
+logger_level = "debug"
+
+
+[storage]
+database_uri="host=******** port=******* user=****** password=********** dbname=register_api sslmode=disable"
